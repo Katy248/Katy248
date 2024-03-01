@@ -18,12 +18,14 @@
 `Tailwind CSS`
 `PowerShell`
 `SQL`
+`C/C++`
+`make`
 
 #### Только трогал
 
 `F#`
-`python`
+`Python`
 `Vue.js`
 `Avalonia`
-`C++`
-`make`
+`Go`
+`Rust`
