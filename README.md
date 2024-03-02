@@ -8,30 +8,13 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 ### Мой стек
 
-#### Знаю/использую
-
-![](https://api.iconify.design/devicon/powershell.svg?height=50&color=white)
+![](https://api.iconify.design/devicon/fedora.svg?height=50&color=white)
 ![](https://api.iconify.design/devicon/dotnetcore.svg?height=50&color=white)
 ![](https://api.iconify.design/devicon/csharp.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/html5.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/microsoftsqlserver.svg?height=50&color=white)
 ![](https://api.iconify.design/devicon/blazor.svg?height=50&color=white)
 ![](https://api.iconify.design/devicon/tailwindcss.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/bootstrap.svg?height=50&color=white)
-
-![](https://api.iconify.design/devicon/visualstudio.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/rider.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/neovim.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/fedora.svg?height=50&color=white)
-
-#### Только трогал
-
-![](https://api.iconify.design/devicon/fsharp.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/vuejs.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/python.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/cplusplus.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/go.svg?height=50&color=white)
-![](https://api.iconify.design/devicon/rust.svg?height=50&color=white)
+![](https://api.iconify.design/devicon/powershell.svg?height=50&color=white)
+![](https://api.iconify.design/devicon/microsoftsqlserver.svg?height=50&color=white)
 
 <details>
 <summary>Подробнее</summary>
