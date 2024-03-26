@@ -6,9 +6,9 @@
 
 C# разработчик. Главный фанат молока и [Staerf](https://band.link/STAERF)-а.
 
-Сейчас учусь на программного инженера, занимаюсь настройкой своего linux-а и стараюсь помогать открытому ПО с переводом на русский язык.
+Сейчас учусь на программного инженера, занимаюсь настройкой своего Linux и стараюсь помогать FOS ПО с переводом на русский язык.
 
-![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30&hide=css)
+![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30&hide=css,html,javascript)
 
 ### Мой стек
 
@@ -21,7 +21,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 ![MS SQL Server](https://api.iconify.design/devicon/microsoftsqlserver.svg?height=50&color=white)
 
 <details>
-<summary>Подробнее</summary>
+<summary><em>Подробнее</em></summary>
 
 #### Использовал
 
@@ -51,7 +51,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 ### Мои ссылки
 
-[![Gitlab badge](https://img.shields.io/badge/GitLab-3c3836?style=for-the-badge&logo=gitlab&labelColor=d65d0e&logoColor=fbf1c7)](https://gitlab.com/Katy248)
+[![GitLab badge](https://img.shields.io/badge/GitLab-3c3836?style=for-the-badge&logo=gitlab&labelColor=d65d0e&logoColor=fbf1c7)](https://gitlab.com/Katy248)
 [![Telegram badge](https://img.shields.io/badge/telegram-3c3836?style=for-the-badge&logo=telegram&labelColor=458588&logoColor=fbf1c7)](https://t.me/antonpethrow)
 [![Spotify badge](https://img.shields.io/badge/spotify-3c3836?style=for-the-badge&logo=spotify&labelColor=98971a&logoColor=fbf1c7)](https://spotify.link/APFWwKZKSHb)
 [![Genius badge](https://img.shields.io/badge/genius-3c3836?style=for-the-badge&logo=genius&labelColor=d79921&logoColor=fbf1c7)](https://genius.com/Katy248)
