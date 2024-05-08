@@ -46,6 +46,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 `Avalonia`
 `Go`
 `Rust`
+`Gtk/Libadwaita`
 
 </details>
 
