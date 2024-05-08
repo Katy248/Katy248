@@ -4,7 +4,7 @@
 
 </center>
 
-C# разработчик. Главный фанат молока и [Staerf](https://band.link/STAERF)-а.
+C# разработчик. Главный фанат молока и [Staerf](https://katy248.github.io/nawas/)-а.
 
 Сейчас учусь на программного инженера, занимаюсь настройкой своего Linux и стараюсь помогать FOS ПО с переводом на русский язык.
 
@@ -37,15 +37,17 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 `Tailwind CSS`
 `C/C++`
 `make`
+`Python`
+`GitHub Pages`
 
 #### Только трогал
 
 `F#`
-`Python`
 `Vue.js`
 `Avalonia`
 `Go`
 `Rust`
+`vala`
 `Gtk/Libadwaita`
 
 </details>
