@@ -8,7 +8,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 Сейчас учусь на программного инженера, занимаюсь настройкой своего Linux и стараюсь помогать FOS ПО с переводом на русский язык.
 
-![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30&hide=javascript)
+![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30)
 
 ### Мой стек
 
