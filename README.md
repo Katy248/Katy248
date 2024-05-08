@@ -49,6 +49,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 `Rust`
 `vala`
 `Gtk/Libadwaita`
+`PHP`
 
 </details>
 
