@@ -56,6 +56,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 ### Мои ссылки
 
 [![GitLab badge](https://img.shields.io/badge/GitLab-3c3836?style=for-the-badge&logo=gitlab&labelColor=d65d0e&logoColor=fbf1c7)](https://gitlab.com/Katy248)
+[![GitVerse badge](https://img.shields.io/badge/GitVerse-3c3836?style=for-the-badge&logo=git&labelColor=b16286&logoColor=fbf1c7)](https://gitverse.ru/Katy248)
 [![Telegram badge](https://img.shields.io/badge/telegram-3c3836?style=for-the-badge&logo=telegram&labelColor=458588&logoColor=fbf1c7)](https://t.me/antonpethrow)
 [![Spotify badge](https://img.shields.io/badge/spotify-3c3836?style=for-the-badge&logo=spotify&labelColor=98971a&logoColor=fbf1c7)](https://spotify.link/APFWwKZKSHb)
 [![Genius badge](https://img.shields.io/badge/genius-3c3836?style=for-the-badge&logo=genius&labelColor=d79921&logoColor=fbf1c7)](https://genius.com/Katy248)
