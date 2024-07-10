@@ -1,3 +1,4 @@
+<div style='color: #ebdbb2;background-color: #282828; padding: 2rem; border-radius: 1rem; border: 2px solid #3c3836'>
 <center>
 
 ### Katy (нет Антон)
@@ -12,13 +13,16 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 ### Мой стек
 
-![Fedora](https://api.iconify.design/devicon/fedora.svg?height=50&color=white)
+![Fedora](https://api.iconify.design/devicon/fedora.svg?height=50&color=%23fbf1c7)
 ![.NET Core](https://api.iconify.design/devicon/dotnetcore.svg?height=50&color=white)
 ![C#](https://api.iconify.design/devicon/csharp.svg?height=50&color=white)
-![Blazor](https://api.iconify.design/devicon/blazor.svg?height=50&color=white)
-![Tailwind](https://api.iconify.design/devicon/tailwindcss.svg?height=50&color=white)
-![PowerShell](https://api.iconify.design/devicon/powershell.svg?height=50&color=white)
-![MS SQL Server](https://api.iconify.design/devicon/microsoftsqlserver.svg?height=50&color=white)
+![Blazor](https://api.iconify.design/simple-icons/blazor.svg?height=50&color=%23ebdbb2)
+![Tailwind](https://api.iconify.design/simple-icons/tailwindcss.svg?height=50&color=%23ebdbb2)
+![Bash](https://api.iconify.design/devicon-plain/bash.svg?height=50&color=%23ebdbb2&box=0)
+<!-- ![PowerShell](https://api.iconify.design/devicon/powershell.svg?height=50&color=white) -->
+<!-- ![MS SQL Server](https://api.iconify.design/devicon/microsoftsqlserver.svg?height=50&color=white) -->
+
+<!-- white fbf1c7 -->
 
 <details>
 <summary><em>Подробнее</em></summary>
@@ -64,3 +68,6 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 [![Steam badge](https://img.shields.io/badge/steam-3c3836?style=for-the-badge&logo=steam&labelColor=282828&logoColor=fbf1c7)](https://steamcommunity.com/id/pbhomer04)
 
 <!-- [![Discord badge](https://img.shields.io/badge/discord-3c3836?style=for-the-badge&logo=discord&labelColor=b16286&logoColor=fbf1c7)](https://t.me/antonpethrow) -->
+</div>
+
+$$\ce{$&#x5C;unicode[goombafont; color: #ebdbb2; ]{x0000}$}$$
