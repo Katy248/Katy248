@@ -12,23 +12,12 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 ### Мой стек
 
-<div style="display: flex; flex-direction: row; gap: .3rem">
-
-<!-- Fedora -->
 ![Fedora](https://api.iconify.design/devicon-plain/fedora.svg?height=50&color=%23458588)
-<!-- dotnet -->
 ![DotNet](https://api.iconify.design/simple-icons/dotnet.svg?height=50&color=%23fbf1c7)
-<!-- C# -->
 ![C#](https://api.iconify.design/mdi/language-csharp.svg?height=50&color=%23689d6a)
-<!-- Blazor -->
 ![Blazor](https://api.iconify.design/simple-icons/blazor.svg?height=50&color=%23b16286)
-<!-- Tailwindcss -->
 ![Tailwind](https://api.iconify.design/simple-icons/tailwindcss.svg?height=50&color=%23458588)
-<!-- Bash -->
 ![Bash](https://api.iconify.design/devicon-plain/bash.svg?height=50&color=%23fbf1c7)
-
-</div>
-<!-- white fbf1c7 -->
 
 <details>
 <summary>
