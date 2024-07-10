@@ -12,7 +12,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 ### Мой стек
 
-<div style='display: flex; flex-direction: row; gap: .3rem'>
+<div style="display: flex; flex-direction: row; gap: .3rem">
 
 <!-- Fedora -->
 ![Fedora](https://api.iconify.design/devicon-plain/fedora.svg?height=50&color=%23458588)
