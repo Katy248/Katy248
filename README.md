@@ -69,5 +69,3 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 
 <!-- [![Discord badge](https://img.shields.io/badge/discord-3c3836?style=for-the-badge&logo=discord&labelColor=b16286&logoColor=fbf1c7)](https://t.me/antonpethrow) -->
 </div>
-
-$$\ce{$&#x5C;unicode[goombafont; color: #ebdbb2; ]{x0000}$}$$
