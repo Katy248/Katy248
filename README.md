@@ -1,4 +1,3 @@
-<div style='color: #ebdbb2;background-color: #282828; padding: 2rem; border-radius: 1rem; border: 2px solid #3c3836'>
 <center>
 
 ### Katy (нет Антон)
@@ -68,4 +67,3 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 [![Steam badge](https://img.shields.io/badge/steam-3c3836?style=for-the-badge&logo=steam&labelColor=282828&logoColor=fbf1c7)](https://steamcommunity.com/id/pbhomer04)
 
 <!-- [![Discord badge](https://img.shields.io/badge/discord-3c3836?style=for-the-badge&logo=discord&labelColor=b16286&logoColor=fbf1c7)](https://t.me/antonpethrow) -->
-</div>
