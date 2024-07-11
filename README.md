@@ -64,6 +64,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 [![GitLab badge](https://img.shields.io/badge/GitLab-3c3836?style=for-the-badge&logo=gitlab&labelColor=d65d0e&logoColor=fbf1c7)](https://gitlab.com/Katy248)
 [![GitHub badge](https://img.shields.io/badge/GitHub-3c3836?style=for-the-badge&logo=github&labelColor=282828&logoColor=fbf1c7)](https://github.com/Katy248)
 [![GitVerse badge](https://img.shields.io/badge/GitVerse-3c3836?style=for-the-badge&logo=git&labelColor=d3869b&logoColor=fbf1c7)](https://gitverse.ru/Katy248)
+[![NuGet badge](https://img.shields.io/badge/NuGet-3c3836?style=for-the-badge&logo=nuget&labelColor=458588&logoColor=fbf1c7)](https://www.nuget.org/profiles/Katy248)
 [![Telegram badge](https://img.shields.io/badge/telegram-3c3836?style=for-the-badge&logo=telegram&labelColor=458588&logoColor=fbf1c7)](https://t.me/antonpethrow)
 [![Mastodon](https://img.shields.io/badge/Mastodon-3c3836?style=for-the-badge&logo=mastodon&labelColor=b16286&logoColor=fbf1c7)](https://mastodon.online/@katy248)
 [![Spotify badge](https://img.shields.io/badge/spotify-3c3836?style=for-the-badge&logo=spotify&labelColor=98971a&logoColor=fbf1c7)](https://spotify.link/APFWwKZKSHb)
