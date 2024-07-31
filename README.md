@@ -70,6 +70,6 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 [![Spotify badge](https://img.shields.io/badge/spotify-3c3836?style=for-the-badge&logo=spotify&labelColor=98971a&logoColor=fbf1c7)](https://spotify.link/APFWwKZKSHb)
 [![Genius badge](https://img.shields.io/badge/genius-3c3836?style=for-the-badge&logo=genius&labelColor=d79921&logoColor=fbf1c7)](https://genius.com/Katy248)
 [![Shikimori badge](https://img.shields.io/badge/shikimori-3c3836?style=for-the-badge&logo=shikimori&labelColor=a89984&logoColor=fbf1c7)](https://shikimori.one/PBHomer04)
-[![Steam badge](https://img.shields.io/badge/steam-3c3836?style=for-the-badge&logo=steam&labelColor=282828&logoColor=fbf1c7)](https://steamcommunity.com/id/pbhomer04)
+[![Steam badge](https://img.shields.io/badge/steam-3c3836?style=for-the-badge&logo=steam&labelColor=282828&logoColor=fbf1c7)](https://steamcommunity.com/id/katy248)
 
 <!-- [![Discord badge](https://img.shields.io/badge/discord-3c3836?style=for-the-badge&logo=discord&labelColor=b16286&logoColor=fbf1c7)](https://t.me/antonpethrow) -->
