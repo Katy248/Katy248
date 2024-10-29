@@ -6,8 +6,6 @@
 
 C# разработчик. Главный фанат молока и [Staerf](https://katy248.github.io/nawas/)-а.
 
-Сейчас учусь на программного инженера, занимаюсь настройкой своего Linux и стараюсь помогать FOS ПО с переводом на русский язык.
-
 ![GitHub User's stars](https://img.shields.io/github/stars/katy248?style=for-the-badge&logoColor=fbf1c7&labelColor=d79921&color=3c3836)
 
 ![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30)
