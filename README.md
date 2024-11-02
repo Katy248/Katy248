@@ -43,13 +43,13 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 `Python`
 `nix`
 `GitHub Pages`
+`go`
+`vue.js`
 
 #### Только трогал
 
 `F#`
-`Vue.js`
 `Avalonia`
-`Go`
 `Rust`
 `vala`
 `Gtk/Libadwaita`
