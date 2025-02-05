@@ -18,7 +18,8 @@
 ![Blazor](https://api.iconify.design/simple-icons/blazor.svg?height=50&color=%23b16286)
 ![Tailwind](https://api.iconify.design/simple-icons/tailwindcss.svg?height=50&color=%23458588)
 ![Bash](https://api.iconify.design/devicon-plain/bash.svg?height=50&color=%23fbf1c7)
-![Nix](icons/nix-gruvbox.png)
+![Bash](https://api.iconify.design/devicon-plain/nixos.svg?height=50&color=%23458588)
+<!-- ![Nix](icons/nix-gruvbox.png) -->
 
 <!-- ![DotNet](https://api.iconify.design/simple-icons/dotnet.svg?height=50&color=%23fbf1c7) -->
 
