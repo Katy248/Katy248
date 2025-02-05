@@ -4,21 +4,23 @@
 
 </center>
 
-C# разработчик. Главный фанат молока и [Staerf](https://katy248.github.io/nawas/)-а.
+Почти программист. Главный фанат молока и истинный патриот [Staerf](https://katy248.github.io/nawas/)-а.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/katy248?style=for-the-badge&logoColor=fbf1c7&labelColor=d79921&color=3c3836)
 
-![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30)
+<!-- ![Топ использованных языков в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Katy248&size_weight=1&count_weight=0&layout=compact&theme=gruvbox&langs_count=30) -->
 
 ### Мой стек
 
 ![Fedora](https://api.iconify.design/devicon-plain/fedora.svg?height=50&color=%23458588)
-![DotNet](https://api.iconify.design/simple-icons/dotnet.svg?height=50&color=%23fbf1c7)
+![Go](https://api.iconify.design/simple-icons/go.svg?height=50&color=%23458588)
 ![C#](https://api.iconify.design/mdi/language-csharp.svg?height=50&color=%23689d6a)
 ![Blazor](https://api.iconify.design/simple-icons/blazor.svg?height=50&color=%23b16286)
 ![Tailwind](https://api.iconify.design/simple-icons/tailwindcss.svg?height=50&color=%23458588)
 ![Bash](https://api.iconify.design/devicon-plain/bash.svg?height=50&color=%23fbf1c7)
 ![Nix](icons/nix-gruvbox.png)
+
+<!-- ![DotNet](https://api.iconify.design/simple-icons/dotnet.svg?height=50&color=%23fbf1c7) -->
 
 <details>
 <summary>
@@ -67,6 +69,7 @@ C# разработчик. Главный фанат молока и [Staerf](ht
 [![NuGet badge](https://img.shields.io/badge/NuGet-3c3836?style=for-the-badge&logo=nuget&labelColor=076678&logoColor=fbf1c7)](https://www.nuget.org/profiles/Katy248)
 [![Telegram badge](https://img.shields.io/badge/telegram-3c3836?style=for-the-badge&logo=telegram&labelColor=458588&logoColor=fbf1c7)](https://t.me/antonpethrow)
 [![Mastodon](https://img.shields.io/badge/Mastodon-3c3836?style=for-the-badge&logo=mastodon&labelColor=b16286&logoColor=fbf1c7)](https://mastodon.online/@katy248)
+[![Bluesky](https://img.shields.io/badge/Bluesky-3c3836?style=for-the-badge&logo=bluesky&labelColor=458588&logoColor=fbf1c7)](https://bsky.app/profile/katy248.bsky.social)
 [![Spotify badge](https://img.shields.io/badge/spotify-3c3836?style=for-the-badge&logo=spotify&labelColor=98971a&logoColor=fbf1c7)](https://spotify.link/APFWwKZKSHb)
 [![Genius badge](https://img.shields.io/badge/genius-3c3836?style=for-the-badge&logo=genius&labelColor=d79921&logoColor=fbf1c7)](https://genius.com/Katy248)
 [![Shikimori badge](https://img.shields.io/badge/shikimori-3c3836?style=for-the-badge&logo=shikimori&labelColor=a89984&logoColor=fbf1c7)](https://shikimori.one/PBHomer04)
